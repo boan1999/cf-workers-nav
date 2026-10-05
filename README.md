@@ -1,9 +1,9 @@
 <div align="center">
-  <h1>cf-workers-nav  个人导航页</h1>
+  <h1>cf-workers-nav  BOAN-导航</h1>
   <p>
-    一个部署在CF上的轻量化导航页
+    致力于最精华的导航站点
     <br />
-    <i>⚡ 轻松创建属于自己的导航主页</i>
+    <i>⚡ 致力于最精华的导航站点</i>
   </p>
 </div>
 
