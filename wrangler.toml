@@ -1,0 +1,9 @@
+name = "cf-workers-nav"
+main = "workers.js"
+compatibility_date = "2026-10-05"
+workers_dev = true
+keep_vars = true
+
+[[kv_namespaces]]
+binding = "CARD_ORDER"
+id = "2bb23e8be76d4380ad8cb60aa79e84c3"
